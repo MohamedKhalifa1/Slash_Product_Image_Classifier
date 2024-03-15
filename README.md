@@ -1,9 +1,6 @@
-Understood. Here's the adjusted README.md:
-
-```markdown
 # Slash Ecommerce Product Image Classifier
 
-![Slash Ecommerce](Slash-Logo.webp)
+![Slash Ecommerce](Slash-Seller-Logo.webp)
 
 Welcome to the Slash Ecommerce Product Image Classifier repository! This project provides a solution for automating product image categorization within the Slash ecommerce app. By leveraging machine learning techniques, we enable efficient organization and classification of product images, enhancing the user experience and backend operations.
 
@@ -48,7 +45,6 @@ gh repo clone MohamedKhalifa1/Slash_Product_Image_Classifier
 - Matplotlib
 - Jupyter Notebook (for development and experimentation)
 
-Refer to the `requirements.txt` file for detailed dependencies.
 
 ## Contributing
 
