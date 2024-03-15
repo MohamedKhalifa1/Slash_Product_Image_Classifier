@@ -1,6 +1,3 @@
-Understood. Here's the adjusted README.md:
-
-```markdown
 # Slash Ecommerce Product Image Classifier
 
 ![Slash Ecommerce](Slash-Logo.webp)
